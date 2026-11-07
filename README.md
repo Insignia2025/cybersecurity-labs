@@ -1,6 +1,6 @@
 # Cybersecurity Labs
 
-Hands-on networking and security labs I build while studying for CompTIA certifications.
+Hands-on networking and security labs I build while study.
 Each lab includes the topology, the commands I ran, how I verified it, what broke, and how I fixed it.
 
 **Author:** Guillermo Alejandro Menjívar Artiga — Cybersecurity and Software Engineering student.
